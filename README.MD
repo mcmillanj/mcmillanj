@@ -12,6 +12,16 @@ My diverse experience in areas of information technology, computer science, and 
 
 
 
-# How to connect to me
+# Feature Projects
+ . Personal Rolodex(https://github.com/mcmillanj/personal-rolodex) : this project shows the use of react Components and hooks.
+  
+ . Build-Week-African-Marketplace-501/back-end  (https://github.com/Build-Week-African-Marketplace-501/back-end) : this REST project shows the use of React,node       Express(middlewares), DBMS.
 
 
+# Tools I love
+ .React 
+ .NODE
+ .HTML
+ .CSS
+ .JavaScript 
+  
