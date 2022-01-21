@@ -17,7 +17,7 @@ My diverse experience in areas of information technology, computer science, and 
   
  . Build-Week-African-Marketplace-501/back-end  (https://github.com/Build-Week-African-Marketplace-501/back-end) : This REST project shows the use of React,Node                Express(middlewares),DBMS, while incoporating The CRUDE methodologies.
  
- .Expensse (https://github.com/mcmillanj/expensse-)  This projects shows a UI designed using Reac and state hooks along with well placed reusable Components.   
+ .Expensse (https://github.com/mcmillanj/expensse-) This projects shows a UI(user interface designed using React and state hooks along with well placed reusable Components. While using Forms, handlers and props to manipulate data as needed.   
 
 
 # Tools I love
