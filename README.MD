@@ -13,7 +13,7 @@ My diverse experience in areas of information technology, computer science, and 
 
 
 # Feature Projects
- . Personal Rolodex(https://github.com/mcmillanj/personal-rolodex) : this project shows the use of react Components and hooks.
+ . Personal Rolodex(https://github.com/mcmillanj/personal-rolodex) :This project shows the use of React Components and State hooks, A Dynamic UI(user interface) with data being pooled from a Fake site in Json Format. The Components are structured well and can be incorporated into other projects with out change.
   
  . Build-Week-African-Marketplace-501/back-end  (https://github.com/Build-Week-African-Marketplace-501/back-end) : This REST project shows the use of React,Node                Express(middlewares),DBMS, while incoporating The CRUDE methodologies.
  
