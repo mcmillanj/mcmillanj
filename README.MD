@@ -49,7 +49,7 @@ My diverse experience in areas of information technology, computer science, and 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs badge"/><br>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="jwt badge"/><br>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql badge"/><br>
- <img src="https://img.shields.io/badge/Express-316192?style=for-the-badge&logo=Express&logoColor=white" alt="Express badge"/><br>
+ <img src="https://img.shields.io/badge/Express-Middlewares-316192?style=for-the-badge&logo=Express-Middlewares&logoColor=white" alt="Express-Middlewares badge"/><br>
   <img src="https://knexjs.org/assets/images/knex.png" alt="knex badge" height="35px" width="max-content"/>
 </p>
 ### Deployment:
