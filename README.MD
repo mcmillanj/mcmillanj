@@ -50,12 +50,13 @@ My diverse experience in areas of information technology, computer science, and 
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="jwt badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql badge"/>
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL badge"/><br>
- <img src="https://img.shields.io/badge/Express-Middlewares-316192?style=for-the-badge&logo=Express-Middlewares&logoColor=white" alt="Express-Middlewares badge"/><br>
- <img src="https://img.shields.io/badge/Mocha-testing-316192?style=for-the-badge&logo=Mocha-testing&logoColor=white" alt="Mocha-testing badge"/><br>
- <img src="https://img.shields.io/badge/Chai-testing-316192?style=for-the-badge&logo=Chai-testing&logoColor=white" alt="Chai-testing badge"/><br>
- <img src="https://img.shields.io/badge/Jest-testing-316192?style=for-the-badge&logo=Jest-testing&logoColor=white" alt="Jest-testing badge"/><br>
+ <img src="https://img.shields.io/badge/Express-Middlewares-316192?style=for-the-badge&logo=Express-Middlewares&logoColor=white" alt="Express-Middlewares badge"/>
+ <img src="https://img.shields.io/badge/Mocha-testing-316192?style=for-the-badge&logo=Mocha-testing&logoColor=white" alt="Mocha-testing badge"/>
+ <img src="https://img.shields.io/badge/Chai-testing-316192?style=for-the-badge&logo=Chai-testing&logoColor=white" alt="Chai-testing badge"/>
+ <img src="https://img.shields.io/badge/Jest-testing-316192?style=for-the-badge&logo=Jest-testing&logoColor=white" alt="Jest-testing badge"/>
   <img src="https://knexjs.org/assets/images/knex.png" alt="knex badge" height="35px" width="max-content"/>
 </p>
+
 ### Deployment:
 <p>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku badge"/>
