@@ -20,7 +20,8 @@ My diverse experience in areas of information technology, computer science, and 
  .Expensse (https://github.com/mcmillanj/expensse-) This projects shows a UI(user interface designed using React and state hooks along with well placed reusable Components. While using Forms, handlers and props to manipulate data as needed.   
 
 
-                                                           ### Tools I love:
+                                                          #My Tools
+                                                          
  ### Communication:
 <p>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
