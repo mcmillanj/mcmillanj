@@ -73,7 +73,7 @@ raised_hands
 <p>
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI badge"/>
 </p>
-## Package Management:
+### Package Management:
 <p>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm badge"/><br>
  <img src="https://img.shields.io/badge/yarn-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="yarn badge"/>
