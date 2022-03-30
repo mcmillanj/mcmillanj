@@ -66,6 +66,7 @@ My diverse experience in areas of information technology, computer science, and 
 ## Package Management:
 <p>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm badge"/>
+ <img src="https://img.shields.io/badge/yarn-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="yarn badge"/>
 </p>
 
 ### Code Management:
