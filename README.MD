@@ -1,32 +1,29 @@
+# ABOUT
+
 As a former Electrical Engineer of 8+ years, I decided to take my technical skills and career pivot into a Full Stack Software Engineer profession.
 My diverse experience in areas of information technology, computer science, and engineering has provided me with a unique perspective on solving business issues.
 
 
 
-
-
-
-# ABOUT
-
-
-
-
-
 # Feature Projects
- . Personal Rolodex(https://github.com/mcmillanj/personal-rolodex) :This project shows the use of React Components and State hooks, A Dynamic UI(user interface) with data being fetched from a External site in Json Format.Created structured Components that can be incorporated into other projects with out change.Overlaid the Rolodex data with animated skin from external site to give UI a animation while searching.
-  
- . Build-Week-African-Marketplace-501/back-end  (https://github.com/Build-Week-African-Marketplace-501/back-end) : This REST project shows the use of React,Node        Express(middlewares),DBMS using PostgreSQL, while incoporating The HTTP: CRUD methodologies.
- 
- .Expensse (https://github.com/mcmillanj/expensse-) This projects shows a UI(user interface designed using React and state hooks along with well placed reusable Components. While using Forms, handlers and props to manipulate data as needed.   
 
- ### My Tools:
+ ### Personal Rolodex:
+ (https://github.com/mcmillanj/personal-rolodex) :This project shows the use of React Components and State hooks, A Dynamic UI(user interface) with data being fetched from a External site in Json Format.Created structured Components that can be incorporated into other projects with out change.Overlaid the Rolodex data with animated skin from external site to give UI a animation while searching.
+  
+ ###  Build-Week-African-Marketplace-501/back-end:
+ (https://github.com/Build-Week-African-Marketplace-501/back-end) : This REST project shows the use of React,Node        Express(middlewares),DBMS using PostgreSQL,     while incoporating The HTTP: CRUD methodologies.
+ 
+  ### Expensse:
+  (https://github.com/mcmillanj/expensse-) This projects shows a UI(user interface designed using React and state hooks along with well placed reusable Components.       While using Forms, handlers and props to manipulate data as needed.   
+
+# My Tools:
                                                           
  ### Communication:
 <p>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom badge"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack badge"/>
-   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello badge"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello badge"/>
 </p>
 
 ### Front-End Development:
