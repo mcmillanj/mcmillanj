@@ -44,13 +44,16 @@ My diverse experience in areas of information technology, computer science, and 
  
  ### Backend Development:
 <p>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite badge"/><br>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs badge"/><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs badge"/><br>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="jwt badge"/><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql badge"/><br>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite badge"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="jwt badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql badge"/>
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL badge"/><br>
  <img src="https://img.shields.io/badge/Express-Middlewares-316192?style=for-the-badge&logo=Express-Middlewares&logoColor=white" alt="Express-Middlewares badge"/><br>
+ <img src="https://img.shields.io/badge/Mocha-testing-316192?style=for-the-badge&logo=Mocha-testing&logoColor=white" alt="Mocha-testing badge"/><br>
+ <img src="https://img.shields.io/badge/Chai-testing-316192?style=for-the-badge&logo=Chai-testing&logoColor=white" alt="Chai-testing badge"/><br>
+ <img src="https://img.shields.io/badge/Jest-testing-316192?style=for-the-badge&logo=Jest-testing&logoColor=white" alt="Jest-testing badge"/><br>
   <img src="https://knexjs.org/assets/images/knex.png" alt="knex badge" height="35px" width="max-content"/>
 </p>
 ### Deployment:
@@ -59,9 +62,6 @@ My diverse experience in areas of information technology, computer science, and 
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify badge"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel badge"/>
 </p>
-white_check_mark
-eyes
-raised_hands
 
 ### Testing Libraries:
 <p>
@@ -75,25 +75,25 @@ raised_hands
 </p>
 ### Package Management:
 <p>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm badge"/><br>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm badge"/>
  <img src="https://img.shields.io/badge/yarn-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="yarn badge"/>
 </p>
 
 ### Code Management:
 <p>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"/><br>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git badge"/>
 </p>
 
 ### Operating Systems:
 <p>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="mac os badge"/><br>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="mac os badge"/>
  <img src="https://img.shields.io/badge/Windows%20os-000000?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows badge"/>
 </p>
 
 ### Linters:
 <p>
-  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier badge"/><br>
+  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier badge"/>
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint badge"/>
 </p>
 
