@@ -20,23 +20,13 @@ My diverse experience in areas of information technology, computer science, and 
  .Expensse (https://github.com/mcmillanj/expensse-) This projects shows a UI(user interface designed using React and state hooks along with well placed reusable Components. While using Forms, handlers and props to manipulate data as needed.   
 
 
-### Tools I love:
- .React     Express
- 
- .NODE
- 
- .HTML5
- 
- .CSS
- 
- .JavaScript 
-  
- .Express Middleware
-### Communication:
+                                                           ### Tools I love:
+ ### Communication:
 <p>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom badge"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack badge"/>
+   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello badge"/>
 </p>
 
 ### Front-End Development:
