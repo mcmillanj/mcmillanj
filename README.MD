@@ -19,8 +19,7 @@ My diverse experience in areas of information technology, computer science, and 
  
  .Expensse (https://github.com/mcmillanj/expensse-) This projects shows a UI(user interface designed using React and state hooks along with well placed reusable Components. While using Forms, handlers and props to manipulate data as needed.   
 
-
-                                                         ### My Tools:
+ ### My Tools:
                                                           
  ### Communication:
 <p>
