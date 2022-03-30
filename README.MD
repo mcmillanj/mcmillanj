@@ -77,7 +77,7 @@ My diverse experience in areas of information technology, computer science, and 
 ### Operating Systems:
 <p>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="mac os badge"/>
- <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Windows badge"/>
+ <img src="https://img.shields.io/badge/Windows%20os-000000?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows badge"/>
 </p>
 
 ### Linters:
